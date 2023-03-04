@@ -52,13 +52,13 @@ class MyApp extends StatelessWidget {
             //mainAxisAlignment: MainAxisAlignment.start,
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              Text("E", style: TextStyle(fontSize: 40)),
-              Text("R", style: TextStyle(fontSize: 40)),
-              Text("S", style: TextStyle(fontSize: 40)),
               Text("L", style: TextStyle(fontSize: 40)),
               Text("E", style: TextStyle(fontSize: 40)),
+              Text("C", style: TextStyle(fontSize: 40)),
+              Text("T", style: TextStyle(fontSize: 40)),
+              Text("U", style: TextStyle(fontSize: 40)),
               Text("R", style: TextStyle(fontSize: 40)),
-              Text("İ", style: TextStyle(fontSize: 40)),
+              Text("E", style: TextStyle(fontSize: 40)),
             ],
           ),
         ],
@@ -71,7 +71,7 @@ class MyApp extends StatelessWidget {
       child: Container(
         padding: EdgeInsets.all(16),
         child: Text(
-          "Bünyamin",
+          "Bunyamin",
           style: TextStyle(fontSize: 50),
         ),
         decoration: BoxDecoration(
@@ -108,12 +108,12 @@ List<Widget> get containerss {
 
 List<Widget> get containerss2 {
   return [
-    Flexible(child: Container(width: 80, height: 100, color: Colors.orange.shade100,alignment: Alignment.center, child: Text("E", style: TextStyle(fontSize: 80)))),
-    Flexible(child: Container(width: 80, height: 100, color: Colors.orange.shade200,alignment: Alignment.center, child: Text("R", style: TextStyle(fontSize: 80)))),
-    Flexible(child: Container(width: 80, height: 100, color: Colors.orange.shade300,alignment: Alignment.center, child: Text("S", style: TextStyle(fontSize: 80)))),
-    Flexible(child: Container(width: 80, height: 100, color: Colors.orange.shade400,alignment: Alignment.center, child: Text("L", style: TextStyle(fontSize: 80)))),
-    Flexible(child: Container(width: 80, height: 100, color: Colors.orange.shade500,alignment: Alignment.center, child: Text("E", style: TextStyle(fontSize: 80)))),
+    Flexible(child: Container(width: 80, height: 100, color: Colors.orange.shade100,alignment: Alignment.center, child: Text("L", style: TextStyle(fontSize: 80)))),
+    Flexible(child: Container(width: 80, height: 100, color: Colors.orange.shade200,alignment: Alignment.center, child: Text("E", style: TextStyle(fontSize: 80)))),
+    Flexible(child: Container(width: 80, height: 100, color: Colors.orange.shade300,alignment: Alignment.center, child: Text("C", style: TextStyle(fontSize: 80)))),
+    Flexible(child: Container(width: 80, height: 100, color: Colors.orange.shade400,alignment: Alignment.center, child: Text("T", style: TextStyle(fontSize: 80)))),
+    Flexible(child: Container(width: 80, height: 100, color: Colors.orange.shade500,alignment: Alignment.center, child: Text("U", style: TextStyle(fontSize: 80)))),
     Flexible(child: Container(width: 80, height: 100, color: Colors.orange.shade600,alignment: Alignment.center, child: Text("R", style: TextStyle(fontSize: 80)))),
-    Flexible(child: Container(width: 80, height: 100, color: Colors.orange.shade700,alignment: Alignment.center, child: Text("İ", style: TextStyle(fontSize: 80)))),
+    Flexible(child: Container(width: 80, height: 100, color: Colors.orange.shade700,alignment: Alignment.center, child: Text("E", style: TextStyle(fontSize: 80)))),
   ];
 }
