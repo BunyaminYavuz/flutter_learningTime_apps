@@ -1,9 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_application_2/button.dart';
 import 'package:flutter_application_2/drop_down_button.dart';
-import 'package:flutter_application_2/deneme.dart';
 import 'package:flutter_application_2/image_widgets.dart';
-import 'package:flutter_application_2/insta.dart';
 import 'package:flutter_application_2/my_counter_pages.dart';
 import 'package:flutter_application_2/popup_menu.dart';
 
@@ -26,7 +24,7 @@ class MyApp extends StatelessWidget {
           )),
       home: Scaffold(
         appBar: AppBar(
-          title: Text("Basic Buttons"), 
+          title: Text("Basic Buttons"),
           actions: [PopupMenuButtonUsage()],
         ),
         body: DropdownButtonUsage(),

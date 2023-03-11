@@ -1,6 +1,18 @@
 # flutter_application_2
 
-A new Flutter project.
+## I learnt syntax and semantics of:
+    -TextButton
+    -ElevatedButton
+    -ElevatedButton.styleFrom
+    -DropdownButton
+    -IntrinsicHeight
+    -Image.asset
+    -Image.network
+    -CircleAvatar
+    -FadeInImage.
+    -PopupMenuButton
+
+    -Counter App 
 
 ## Getting Started
 

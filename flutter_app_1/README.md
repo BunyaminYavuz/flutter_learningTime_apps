@@ -1,6 +1,20 @@
 # flutter_first_1
 
-A new Flutter project.
+## I learnt syntax and semantics of:
+	-StatelessWidget
+	-MaterialApp
+	-Scaffold
+	-AppBar
+	-Column & Row
+	-Expanded & Flexible
+	-FloatingActionButton
+	-Container
+	-MainAxisSize. & MainAxisAlignment. & CrossAxisAlignment.
+	-padding: EdgeInsets.all
+	-BoxDecoration
+	-DecorationImage
+	-NetworkImage
+
 
 ## Getting Started
 

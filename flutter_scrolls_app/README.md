@@ -1,6 +1,14 @@
 # flutter_scrolls_app
 
-A new Flutter project.
+## I learnt syntax and semantics of:
+    -ListView
+    -ListView.builder
+    -Card
+    -EasyLoading.
+    -AlertDialog
+    -ListBody
+    -SingleChildScrollView
+    -Divider
 
 ## Getting Started
 

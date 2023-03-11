@@ -1,6 +1,21 @@
 # grid
 
-A new Flutter project.
+## I learnt syntax and semantics of:
+    -GridView.builder
+    -SliverGridDelegateWithFixedCrossAxisCount
+    -SliverGridDelegateWithMaxCrossAxisExtent
+    -GestureDetector
+    -GridView.extent
+    -GridView.count
+    -CustomScrollView
+    -SliverAppBar
+    -FlexibleSpaceBar
+    -SliverList
+    -SliverChildListDelegate
+    -SliverPadding
+    -SliverGrid
+    -SliverChildListDelegate
+    -SliverChildBuilderDelegate
 
 ## Getting Started
 
