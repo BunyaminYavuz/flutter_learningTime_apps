@@ -1,6 +1,6 @@
 # flutter_scrolls_app
 
-## I learnt syntax and semantics of:
+## I learned syntax and semantics of:
     -ListView
     -ListView.builder
     -Card

@@ -1,6 +1,6 @@
 # flutter_first_1
 
-## I learnt syntax and semantics of:
+## I learned syntax and semantics of:
 	-StatelessWidget
 	-MaterialApp
 	-Scaffold

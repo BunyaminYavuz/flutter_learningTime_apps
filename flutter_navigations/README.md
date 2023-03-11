@@ -1,6 +1,6 @@
 # flutter_navigations
 
-## I learnt syntax and semantics of:
+## I learned syntax and semantics of:
     -RouteGenerator
     -MaterialPageRoute
     -RouteSettings

@@ -1,6 +1,6 @@
 # grid
 
-## I learnt syntax and semantics of:
+## I learned syntax and semantics of:
     -GridView.builder
     -SliverGridDelegateWithFixedCrossAxisCount
     -SliverGridDelegateWithMaxCrossAxisExtent

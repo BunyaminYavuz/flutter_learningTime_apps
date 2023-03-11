@@ -1,6 +1,6 @@
 # flutter_application_2
 
-## I learnt syntax and semantics of:
+## I learned syntax and semantics of:
     -TextButton
     -ElevatedButton
     -ElevatedButton.styleFrom
